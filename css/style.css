@@ -4,3 +4,7 @@ body {
   color: var(--ctp-mocha-text);
   background: var(--ctp-mocha-base);
 }
+
+a {
+  color: var(--ctp-mocha-rosewater);
+}
